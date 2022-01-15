@@ -9,10 +9,11 @@
   // $email = $_POST['user_email'];
   
   //в переменную $token нужно вставить токен, который нам прислал @botFather
-  $token = "1069245163:AAGNPkmO1n4eLQWSR9ATgeU9R6A1vcaULqA";
-  
+  $token = "2101074495:AAEl7YGEL2Dek-gpiAPXjt44QlJ1r2smbBI";
+  //$token = "1069245163:AAGNPkmO1n4eLQWSR9ATgeU9R6A1vcaULqA";
   //нужна вставить chat_id (Как получить chad id, читайте ниже)
-  $chat_id = "-381738701";//0
+  $chat_id = "-607144176";//0
+  //$chat_id = "-381738701";//0
 
   //Далее создаем переменную, в которую помещаем PHP массив
   $arr = array(
